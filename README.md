@@ -2,4 +2,4 @@
 Hi guys
 how are you?
 print ("Hello World")
-ya 100% ne ponil chto zachem nam eto nujno 
+I 100% DID NOT UNDERSTAND WHY IT IS NEEDED ONLY FOR CHECKING HOME OR OTHER
